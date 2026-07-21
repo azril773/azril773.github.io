@@ -25,29 +25,6 @@ Open [http://localhost:5173](http://localhost:5173)
 ```bash
 npm run build
 ```
-
-## Deploy
-
-### Vercel (Recommended — Free)
-1. Push this folder to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import your repo
-4. Click Deploy — done!
-
-### Netlify (Alternative — Free)
-1. Push to GitHub
-2. Go to [netlify.com](https://netlify.com)
-3. Import repo → Deploy
-
-### GitHub Pages
-```bash
-npm run build
-# Then push the dist/ folder to gh-pages branch
-```
-
-## Customization
-All content is in `src/data.ts` — update your info there.
-
 ## Project Structure
 ```
 src/
