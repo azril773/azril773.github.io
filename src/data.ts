@@ -6,8 +6,8 @@ export const profile = {
   location: 'Cirebon / Tasikmalaya, Indonesia',
   email: 'azrilsugiarto06@gmail.com',
   phone: '+62 8953 8320 8655',
-  github: 'github.com/azrilsugiarto',
-  githubUrl: 'https://github.com/azrilsugiarto',
+  github: 'github.com/azril773',
+  githubUrl: 'https://github.com/azril773',
   bio: 'Backend-focused Software Engineer with 5 years of experience delivering impactful technical solutions. I specialize in building and optimizing RESTful APIs, designing scalable architecture, and migrating legacy systems — with a track record of measurable performance improvements.',
 }
 
@@ -108,7 +108,7 @@ export const projects = [
   {
     name: 'Inventory Management System',
     description: 'Full replacement of legacy inventory system with modern architecture.',
-    impact: 'Replaced 5-year-old legacy system',
+    impact: 'Replaced legacy system',
     tags: ['NestJS', 'MySQL', 'Docker', 'Nginx'],
     type: 'Full-stack',
   },
