@@ -12,7 +12,7 @@ export const profile = {
 }
 
 export const stats = [
-  { value: '5', label: 'Years experience', suffix: 'yrs' },
+  { value: '6', label: 'Years experience', suffix: 'yrs' },
   { value: '98', label: 'Processing time reduced', suffix: '%' },
   { value: '83', label: 'Efficiency improvement', suffix: '%' },
   { value: '10+', label: 'Technologies mastered', suffix: '' },
