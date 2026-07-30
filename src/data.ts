@@ -8,7 +8,7 @@ export const profile = {
   phone: '+62 8953 8320 8655',
   github: 'github.com/azril773',
   githubUrl: 'https://github.com/azril773',
-  bio: 'Backend-focused Software Engineer with 5 years of experience delivering impactful technical solutions. I specialize in building and optimizing RESTful APIs, designing scalable architecture, and migrating legacy systems — with a track record of measurable performance improvements.',
+  bio: 'Backend-focused Software Engineer with 6 years of experience delivering impactful technical solutions. I specialize in building and optimizing RESTful APIs, designing scalable architecture, and migrating legacy systems — with a track record of measurable performance improvements.',
 }
 
 export const stats = [
